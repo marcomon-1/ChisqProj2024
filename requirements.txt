@@ -3,7 +3,6 @@ ipympl
 ipyvolume
 scipy
 numpy
-random
 matplotlib.pyplot
 ipywidgets
 IPython.display
