@@ -3,6 +3,5 @@ ipympl
 ipyvolume
 scipy
 numpy
-matplotlib.pyplot
 ipywidgets
-IPython.display
+voila
