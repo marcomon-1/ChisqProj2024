@@ -2,6 +2,4 @@ bqplot
 ipympl
 ipyvolume
 scipy
-numpy
-ipywidgets
 voila
